@@ -1,0 +1,4 @@
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: apr23-quarkus-test-1-dsp-job
